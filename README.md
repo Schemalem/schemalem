@@ -1,7 +1,7 @@
 👩🏻‍💻 Nicole Schembri's GitHub Profile 👩🏻‍💻
 
 
-Hey, my name is Nicole Schembri and I'm a graduate of the #1 Coding Bootcamp in the world, Le Wagon.
+Hey, my name is Nicole and I'm a graduate of the #1 Coding Bootcamp in the world, Le Wagon.
 
 I learn about things and I build stuff. 
 
