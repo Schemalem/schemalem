@@ -5,7 +5,7 @@ Hey, my name is Nicole and I'm a graduate of the #1 Coding Bootcamp in the world
 
 I learn about things and I build stuff. 
 
-- 💻 I'm a full stack web developer focusing on Ruby, Rails, HTML, CSS, JS
+- 💻 I'm a full stack web developer focusing on Ruby, Rails, JS, React, HTML & CSS
 - 📫 You can reach me at nschembri93@gmail.com 
 - 🇬🇧 I'm based in London
 
